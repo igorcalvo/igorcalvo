@@ -4,22 +4,22 @@
 </div>
 
 <a href="https://github.com/igorcalvo/linux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=linux&show_owner=true&description_lines_cound=1&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=linux&description_lines_cound=1&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/igorcalvo/scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=scripts&show_owner=true&description_lines_cound=1&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=scripts&description_lines_cound=1&theme=gotham&hide_border=true" />
 </a>
 
 <a href="https://github.com/igorcalvo/nightly_check">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=nightly_check&show_owner=true&description_lines_cound=1&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=nightly_check&description_lines_cound=1&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/igorcalvo/rice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=rice&show_owner=true&description_lines_cound=1&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=rice&description_lines_cound=1&theme=gotham&hide_border=true" />
 </a>
 
 <a href="https://github.com/igorcalvo/sdi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=sdi&show_owner=true&description_lines_cound=1&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=sdi&description_lines_cound=1&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/igorcalvo/sudoku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=sudoku&show_owner=true&description_lines_cound=1&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorcalvo&repo=sudoku&description_lines_cound=1&theme=gotham&hide_border=true" />
 </a>
